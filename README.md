@@ -12,3 +12,9 @@
 - Python
 - SQL
 - GitHub
+
+  ## Week 2 – Python & DSA
+- Solved basic Python problems
+- Practiced loops and condition-based programs
+- Implemented basic DSA concepts using lists
+
