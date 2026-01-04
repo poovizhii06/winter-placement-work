@@ -1,4 +1,4 @@
-# Cafe Finder – Week 2 Mini Project
+# Cafe Finder – Mini Project
 
 ## Description
 A simple Cafe Finder web application built for Week 2 Mini Project submission.
